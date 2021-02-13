@@ -1,0 +1,37 @@
+body{background-color: #D3D3D3;} /*    Fundo da página   */
+
+h2 b
+{
+    color: #4B0082;  /*    Cor do destaque do título   */
+}
+
+.pilha1                 /*    Parte superior do site   */
+{
+    width: 100px;
+    height: 50px;
+    border: solid black 1px;
+    margin: 0 auto;
+}
+
+.pilha2                 /*    Parte do corpo da pilha   */
+{
+    width: 200px;
+    height: 300px;
+    border: solid black 1px;
+    margin: 0 auto;
+
+}
+
+.botao                  /*    Alinhamento do botão carregar  */
+
+{
+    margin: 0 auto;
+    width: 200px;
+}
+
+.botao input            
+
+{
+    margin: 0 auto;
+    width: 200px;
+}
